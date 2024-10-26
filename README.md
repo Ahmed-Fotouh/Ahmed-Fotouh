@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-fotouh&show_icons=true&locale=en" alt="ahmed-fotouh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-fotouh&" alt="ahmed-fotouh" /></p>
+
+![snake gif](https://github.com/Ahmed-Fotouh/Ahmed-Fotouh/blob/output/github-snake-dark.svg)
